@@ -10,18 +10,18 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <a href="https://www.kali.org/tools/hydra/"> <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="35"/></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+   <a href="https://www.kali.org/tools/nmap/"> <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" height="35"/></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+   <a href="https://www.kali.org/tools/aircrack-ng/"> <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" height="35"/></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+   <a href="https://www.kali.org/tools/burpsuite/"> <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" height="35"/></a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
