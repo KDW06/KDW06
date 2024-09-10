@@ -13,6 +13,12 @@
 
 
 ###
+<div align="left">
+
+<a href="https://www.kali.org/"> <img src="https://www.kernel.org/theme/images/logos/tux.png" height="55"/></a>
+<img width="162" />
+<a href="https://www.microsoft.com/en-gb/windows/windows-11"><img src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png" height="55"/></a>
+</div>
 
 <div align="left">
   <a href="https://www.kali.org/tools/hydra/"> <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="35"/></a>
@@ -23,11 +29,12 @@
   <img width="12" />
    <a href="https://www.kali.org/tools/burpsuite/"> <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" height="35"/></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <a href="https://www.uipath.com/"> <img src="https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_2560/v1720707161/12472/240711-header-logo_0b06e675" height="35"/></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+   <a href="https://www.uipath.com/"> <img src="https://duckduckgo.com/i/337d6ce5402b3892.png" height="35"/></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/"> <img src="https://www.logolynx.com/images/logolynx/s_54/54280a02406d4b1eb00c41f685936ef1.jpeg" height="35"/> </a>
+    
 </div>
 
 ###
