@@ -13,14 +13,14 @@
 
 
 ###
-<div align="left">
+<div align="center">
 
 <a href="https://www.kali.org/"> <img src="https://www.kernel.org/theme/images/logos/tux.png" height="55"/></a>
 <img width="162" />
 <a href="https://www.microsoft.com/en-gb/windows/windows-11"><img src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png" height="55"/></a>
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://www.kali.org/tools/hydra/"> <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="35"/></a>
   <img width="12" />
    <a href="https://www.kali.org/tools/nmap/"> <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" height="35"/></a>
@@ -39,7 +39,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/kdelsa/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href="https://www.discordapp.com/users/382752526417657857"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/> </a>
 </div>
